@@ -1,4 +1,4 @@
-<h1>Monolithic WebApp With Scalability</h1>
+<h1>Monolithic Web Application With Scalability</h1>
 <img src='https://github.com/munnaonc/webapplicationarchitecture/blob/master/webapparchitecture.png'>
 <a href='https://github.com/munnaonc/webapplicationarchitecture/blob/master/MonolithicWebAppWithScalability.pdf'>Download the PDF</a>
 <p>Community Recognision : The above diagram is created using [www.draw.io] a free tool to design awesome diagram.</p>
