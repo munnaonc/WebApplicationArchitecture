@@ -31,7 +31,7 @@
 
 <h3>Common Backend</h3>
 
-<p>a) Data access layer: Common backend must contain data access classes to retrieve and save data to and from the database. (Any from ORM, Ado.net)</p>
+<p>a) Data access layer: Common backend must contain data access classes to retrieve and save data to and from the database. (EF 6, Ado.net or Any ORM)</p>
 
 <p>b) Business access layer:  The business logic layer will consist of logic classes to validate business logic, security concerns, licensing concerns. Business logic classes will filter out data before making an attempt to save the data. For the complex transaction, the business layer would create transactions to complete a successful operation or rollback the operation changes. </p>
 
